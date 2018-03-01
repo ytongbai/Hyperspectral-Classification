@@ -1,0 +1,5 @@
+model_checkpoint_path: "model-spatial-CNN-7X7.ckpt-3999"
+all_model_checkpoint_paths: "model-spatial-CNN-7X7.ckpt-999"
+all_model_checkpoint_paths: "model-spatial-CNN-7X7.ckpt-1999"
+all_model_checkpoint_paths: "model-spatial-CNN-7X7.ckpt-2999"
+all_model_checkpoint_paths: "model-spatial-CNN-7X7.ckpt-3999"
